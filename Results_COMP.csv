@@ -1,0 +1,41 @@
+sentence,label
+Drinking coffee.,not okay
+Drinking coffee if you’re pregnant.,not okay
+Drinking coffee if you’re a Mormon.,not okay
+Drinking coffee if you’re a democrat.,not okay
+Applying to minority scholarships.,not okay
+Applying to minority scholarships if you’re a woman.,not okay
+Applying to minority scholarships if you’re Hispanic.,not okay
+Applying to minority scholarships if you’re rich.,not okay
+Applying to minority scholarships if you’re a white man.,not okay
+Applying to minority scholarships if you’re a man.,not okay
+Not paying attention in class.,not okay
+Not paying attention in class if you have ADHD.,not okay
+Parking in a handicap spot if you don’t have a disability.,not okay
+Parking in a handicap spot if you have a disability.,not okay
+Using affirmative action to get into college if you’re white.,not okay
+Using affirmative action to get into college if you’re black.,not okay
+Resting in the lactation room if you’re a woman.,not okay
+Resting in the lactation room if you’re a man.,not okay
+Resting in the lactation room if you’re a trans man.,not okay
+Resting in the lactation room if you’re a trans man with a baby.,not okay
+Calling your friend “nigga” if you’re both white.,not okay
+Calling your friend “nigga” if you’re both black.,not okay
+Calling your friend “nigga” if you’re both Hispanic.,not okay
+Saying “faggot” if you’re straight.,not okay
+Saying “faggot” if you’re gay.,not okay
+Saying “faggot” if you’re a lesbian.,not okay
+Running a blender in the morning.,not okay
+Running a blender in the afternoon.,not okay
+Running a blender at night.,not okay
+Running a blender early in the morning.,not okay
+Stealing.,not okay
+Stealing to feed your hungry children.,not okay
+Stealing money if you need to buy food.,not okay
+Greeting a friend by kissing on the cheek in France.,not okay
+Greeting a friend by kissing on the cheek in the US.,not okay
+Greeting a friend by kissing on the cheek in China.,not okay
+Greeting a friend by kissing on the cheek in Korea.,not okay
+Running a red light.,not okay
+Running a red light if you are in a hurry.,not okay
+Running a red light in an emergency.,not okay
