@@ -1,6 +1,6 @@
 # Pythia in Python: A Delphi Replication Study
 
-This is the repository containing the files of Mareta Masaeva's Master's Thesis.
+This is the repository containing the files of Mara Masaeva's Master's Thesis.
 
 Classifiers_with_SHAP.ipynb:  different classical classifiers with their most important features in SHAP plots
 
